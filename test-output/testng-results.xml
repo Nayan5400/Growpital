@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-20T10:09:27Z" name="Default suite" finished-at="2023-04-20T10:11:39Z" duration-ms="131866">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T10:09:27Z" name="Default test" finished-at="2023-04-20T10:11:39Z" duration-ms="131866">
+      <class name="growpitalTestClass.ValidatingUploadFiles">
+        <test-method is-config="true" signature="launchGrowpitalApp()[pri:0, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:09:27Z" name="launchGrowpitalApp" finished-at="2023-04-20T10:09:29Z" duration-ms="2140" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchGrowpitalApp -->
+        <test-method is-config="true" signature="loginToGrowpital()[pri:0, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:09:29Z" name="loginToGrowpital" finished-at="2023-04-20T10:09:54Z" duration-ms="24717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGrowpital -->
+        <test-method signature="ValidationOfUploadingPancard()[pri:1, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:09:54Z" name="ValidationOfUploadingPancard" finished-at="2023-04-20T10:10:11Z" duration-ms="17406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationOfUploadingPancard -->
+        <test-method is-config="true" signature="SignOutApplication()[pri:0, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:10:11Z" name="SignOutApplication" finished-at="2023-04-20T10:10:12Z" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOutApplication -->
+        <test-method is-config="true" signature="loginToGrowpital()[pri:0, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:10:12Z" name="loginToGrowpital" finished-at="2023-04-20T10:10:37Z" duration-ms="24865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGrowpital -->
+        <test-method signature="ValidationOfUploadingAadhaarcard()[pri:2, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:10:37Z" name="ValidationOfUploadingAadhaarcard" finished-at="2023-04-20T10:10:54Z" duration-ms="17341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationOfUploadingAadhaarcard -->
+        <test-method is-config="true" signature="SignOutApplication()[pri:0, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:10:54Z" name="SignOutApplication" finished-at="2023-04-20T10:10:55Z" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOutApplication -->
+        <test-method is-config="true" signature="loginToGrowpital()[pri:0, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:10:55Z" name="loginToGrowpital" finished-at="2023-04-20T10:11:20Z" duration-ms="24619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGrowpital -->
+        <test-method signature="ValidationOfUploadingCancelledCheque()[pri:3, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:11:20Z" name="ValidationOfUploadingCancelledCheque" finished-at="2023-04-20T10:11:37Z" duration-ms="17382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationOfUploadingCancelledCheque -->
+        <test-method is-config="true" signature="SignOutApplication()[pri:0, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:11:37Z" name="SignOutApplication" finished-at="2023-04-20T10:11:39Z" duration-ms="1087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOutApplication -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:growpitalTestClass.ValidatingUploadFiles@49e5f737]" started-at="2023-04-20T10:11:39Z" name="closeBrowser" finished-at="2023-04-20T10:11:39Z" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- growpitalTestClass.ValidatingUploadFiles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
